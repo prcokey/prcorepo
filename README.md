@@ -104,7 +104,26 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" tvg-url="" group-title="",70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Familiares",Locomotion (Opt 2)
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-name="aztv" tvg-id="" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares",Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares",Boomerang TV HD
+http://96.30.193.226:81/hls/boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/doZuOeh" group-title="Familiares",Toonizaki
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAI5tbx.png" group-title="Familiares",Kanade TV HD
+http://96.30.193.226:81/hls/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y9WS8N8.png" group-title="Familiares",Tele animacion
+https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b095FzU.jpg" group-title="Familiares",LIM TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CcB8SKm.png" group-title="Familiares",Aster
+http://96.30.193.226:81/hls/canalaster.m3u8
 
 
 
