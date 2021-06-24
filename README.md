@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",HALLMARK MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://image.roku.com/developer_channels/prod/8e90c96e6a16bbbd2f6d92a2feac834ce4824849dace055a5e73d683296fdd8e.png" tvg-url="" group-title="",HALLMARK MOVIES
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",OVATION
 https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
