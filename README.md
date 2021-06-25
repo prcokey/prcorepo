@@ -19,6 +19,8 @@ http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8|User-Agent=MXPlay
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://inspgr.id/app/uploads/2016/10/video-lmn-feature.jpg1425" tvg-url="" group-title="",LMN
 http://stream.tvtap.live:8081/live/us-lmn.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://inspgr.id/app/uploads/2016/10/video-lmn-feature.jpg1425" tvg-url="" group-title="",LIFETIME
+http://stream.tvtap.live:8081/live/us-lifetime.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",HBO
 http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://variety.com/wp-content/uploads/2019/04/showtime-logo.jpg?w=1000" tvg-url="" group-title="",SHOWTIME
