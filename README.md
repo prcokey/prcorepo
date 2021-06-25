@@ -37,19 +37,12 @@ http://stream.tvtap.live:8081/live/us-cbs.stream/playlist.m3u8|User-Agent=MXPlay
 https://bozztv.com/teleyupp1/teleup-cw-whp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",FREEFORM
 https://bozztv.com/teleyupp/IxagghMvR8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",POP
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",ION
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",FOX
 http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",FX
 http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",FXX
 http://stream.tvtap.live:8081/live/us-fxx.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC IFC Film Picks
