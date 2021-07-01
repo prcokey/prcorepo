@@ -7,9 +7,6 @@ https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9H2gecmx8a2r_42YTf1a1Oqw9sXZTlZRwTgO1BOTwC1222AVsYhWZrjzQk6NeuRUUP1M&usqp=CAU" tvg-url="" group-title="",USA NETWORK
 http://stream.tvtap.live:8081/live/us-usanet.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9H2gecmx8a2r_42YTf1a1Oqw9sXZTlZRwTgO1BOTwC1222AVsYhWZrjzQk6NeuRUUP1M&usqp=CAU" tvg-url="" group-title="",BET
-http://hls.123tv.live/ch/mZ7lMosRO9gvXKejqrs8nw/1625156957/spikeus.m3u8|User-Agent=MXPlayer/1.32.3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC
 http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/488152962355564544/ieoJ7IVc_400x400.png" tvg-url="" group-title="",TNT
