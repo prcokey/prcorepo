@@ -9,7 +9,7 @@ https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-usanet.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9H2gecmx8a2r_42YTf1a1Oqw9sXZTlZRwTgO1BOTwC1222AVsYhWZrjzQk6NeuRUUP1M&usqp=CAU" tvg-url="" group-title="",BET
 http://hls.123tv.live/ch/6k3fqn6HYNdCtMIfrGFmkg/1625157185/bet.m3u8|User-Agent=MXPlayer/1.32.3
-http://akamaicdn.xyz/channel/7663377856733230664b3949657267414c7954667a513d3d/131/spiketv.m3u8?embed=true|User-Agent=Mozilla/5.0 (Linux; Android 9; SM-A205U Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36
+http://hls.123tv.live/ch/mZ7lMosRO9gvXKejqrs8nw/1625156957/spikeus.m3u8|User-Agent=MXPlayer/1.32.3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC
 http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
