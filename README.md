@@ -43,6 +43,10 @@ http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8|User-Agent=MXPlay
 http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",FXX
 http://stream.tvtap.live:8081/live/us-fxx.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",DISCOVERY
+http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",BBCAMERICA
+http://stream.tvtap.live:8081/live/us-bbc-america.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC IFC Film Picks
