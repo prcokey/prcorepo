@@ -49,6 +49,12 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8|User-Agent=
 http://stream.tvtap.live:8081/live/us-bbc-america.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",VICELAND
 http://stream.tvtap.live:8081/live/us-viceland.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",BRAVO
+http://stream.tvtap.live:8081/live/bravo9.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",TRAVEL
+http://stream.tvtap.live:8081/live/usa-travel.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/media/EaJIf0YXkAARmIl.jpg" tvg-url="" group-title="",PARAMOUNT
+http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8|User-Agent=MXPlayer/1.32.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yngqRL8.png" tvg-url="" group-title="",AMC IFC Film Picks
